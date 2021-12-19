@@ -23,6 +23,7 @@ $(".element:nth-child(1)").on("click", function () {
 })
 $(".element:nth-child(2)").on("click", function () {
     $(".element:nth-child(3)").show();
+    $(".element:nth-child(3)").focus();
 })
 $(".element:nth-child(3)").on("click", function () {
 /* alert("Mongol !"); */
