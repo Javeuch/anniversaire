@@ -20,6 +20,6 @@ $(".element:nth-child(3)").on("click", function () {
     $("header").hide();
     $(".container").hide();
     document.getElementById("myAudio").play();
-    $("body").css('background', 'url("css/images/max-marcel_mini.jpg") top no-repeat');
+    $("body").css('background', 'url("css/images/yomax_mini.jpg") top no-repeat');
     
 })
