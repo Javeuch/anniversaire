@@ -19,7 +19,7 @@ $(".element:nth-child(3)").on("click", function () {
     /* alert("Mongol !"); */
     $("header").hide();
     $(".container").hide();
-
+    document.getElementById("myAudio").play();
     $("body").css('background', 'url("css/images/max-marcel_mini.jpg") top no-repeat');
-    $("audio").play();
+    
 })
