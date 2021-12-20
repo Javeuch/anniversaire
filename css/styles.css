@@ -43,7 +43,7 @@ body {
 .element {
   display: flex;
   flex-direction: column;
-  flex-wrap: ;
+  flex-wrap: wrap;
   /* vertical-align: center; */
   width: 80%;
   margin: 0 auto;
@@ -95,3 +95,4 @@ color: green;
 color: pink;
 }
  */
+ 
